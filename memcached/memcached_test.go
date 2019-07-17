@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/qor/cache"
+	"github.com/kisrobot/cache"
 )
 
 var client cache.CacheStoreInterface
